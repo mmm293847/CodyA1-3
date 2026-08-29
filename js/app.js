@@ -281,7 +281,7 @@ keywordList.appendChild(span);
 /* 채용 담당자 한줄 평가 */
 
 document.querySelector("#recruiter-comment").textContent =
-"${result.recruiterComment}";
+`${result.recruiterComment}`;
 }
 
 /* ========================================
