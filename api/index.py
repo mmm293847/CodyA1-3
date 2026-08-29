@@ -21,8 +21,6 @@ def analyze_with_gemini(job, question, essay):
     prompt = f"""
 너는 채용 담당자의 관점에서 자기소개서를 분석하는 AI다.
 
-다음 자기소개서를 분석해라.
-
 [지원 직무]
 {job}
 
