@@ -462,7 +462,6 @@ git push
 
 ## 11. 스크린샷
 
-```
 데스크톱 화면:
 <img width="1916" height="945" alt="데스크탑 화면 캡처" src="https://github.com/user-attachments/assets/45c60792-6b2b-43f4-a11d-0d48909c5cde" />
 
@@ -476,6 +475,5 @@ AI 기능 동작 장면:
 
 <img width="1375" height="819" alt="AI 분석 작동 2" src="https://github.com/user-attachments/assets/45dfc4b0-4e12-416a-aa8a-7d52f43ee78f" />
 
-```
 
 ---
