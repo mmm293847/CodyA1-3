@@ -463,16 +463,16 @@ git push
 
 ```
 데스크톱 화면:
-[ 이미지 첨부 또는 링크 ]
-👉 힌트: 데스크톱에서 찍은 스크린샷을 images/ 폴더에 넣고 여기에 연결해요.
+<img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/612c4dd4-7e77-468f-9cf3-ebdedee1add7" />
 
 모바일 화면:
-[ 이미지 첨부 또는 링크 ]
-👉 힌트: 모바일 크기에서 찍은 스크린샷을 첨부해요. (과제 필수 증빙!)
+<img width="417" height="753" alt="image" src="https://github.com/user-attachments/assets/5bf14688-6da8-499f-b377-d626ec80bbb0" />
 
 AI 기능 동작 장면:
-[ 이미지 첨부 또는 링크 ]
-👉 힌트: 실제로 AI 기능이 동작하는 화면을 캡처해서 첨부해요. (과제 필수 증빙!)
+<img width="1375" height="819" alt="image" src="https://github.com/user-attachments/assets/cddb6950-c395-456d-9c86-bc57464db6f6" />
+
+<img width="1375" height="819" alt="image" src="https://github.com/user-attachments/assets/de3478b5-0129-4a19-84ae-355983116cbd" />
+
 ```
 
 ---
