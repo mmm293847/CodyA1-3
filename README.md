@@ -463,20 +463,18 @@ git push
 
 ```
 데스크톱 화면:
-<img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/612c4dd4-7e77-468f-9cf3-ebdedee1add7" />
+<img width="1916" height="945" alt="데스크탑 화면 캡처" src="https://github.com/user-attachments/assets/45c60792-6b2b-43f4-a11d-0d48909c5cde" />
+
 
 모바일 화면:
-<img width="417" height="753" alt="image" src="https://github.com/user-attachments/assets/5bf14688-6da8-499f-b377-d626ec80bbb0" />
+<img width="417" height="753" alt="모바일 화면 캡처" src="https://github.com/user-attachments/assets/7ebdb794-7b48-4361-ad74-c59f3820347a" />
+
 
 AI 기능 동작 장면:
-<img width="1375" height="819" alt="image" src="https://github.com/user-attachments/assets/cddb6950-c395-456d-9c86-bc57464db6f6" />
+<img width="1396" height="713" alt="AI 분석 작동 1" src="https://github.com/user-attachments/assets/a3529bef-7df3-4aa9-99c1-dcddfb11244f" />
 
-<img width="1375" height="819" alt="image" src="https://github.com/user-attachments/assets/de3478b5-0129-4a19-84ae-355983116cbd" />
+<img width="1375" height="819" alt="AI 분석 작동 2" src="https://github.com/user-attachments/assets/45dfc4b0-4e12-416a-aa8a-7d52f43ee78f" />
 
 ```
-
----
-
----
 
 ---
